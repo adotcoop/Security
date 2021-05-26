@@ -5,7 +5,7 @@ Scripts related to managing security features of Windows
 
 * Get-ASREvents.ps1
 
-Dumps the events generated when attack surface reduction rules fire in both block and audit mode. Can export to CSV if required. 
+  Dumps the events generated when attack surface reduction rules fire in both block and audit mode. Can export to CSV if required. 
 
 ## Disclaimer
 
